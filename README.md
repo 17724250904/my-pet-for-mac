@@ -101,11 +101,8 @@
   - Language: Swift  
 - 用下方 `TransparentDrawingView.swift` 代码完全替换文件内容。
 
-### ⚙️ 4.4 关键设置
 
-- Xcode 导航栏点蓝色项目图标 ➡️ General ➡️ Deployment Info ➡️ **Main Interface** 留空！
-
-### 🧹 4.5 清理 & 运行
+### 🧹 4.4 清理 & 运行
 
 - 保存全部文件
 - Product > Clean Build Folder (`Shift + Cmd + K`)
